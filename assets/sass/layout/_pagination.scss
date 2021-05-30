@@ -1,0 +1,11 @@
+.pagination {
+    background-color: $light-gray;
+    justify-content: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.pagination__menu a{
+    font: $roboto;
+    font-weight: $r-light;
+}

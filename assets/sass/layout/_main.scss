@@ -1,0 +1,49 @@
+.main {
+    
+    background-color: $white;
+    color: $eerie-black;
+}
+
+.main__content {
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.main__button {
+    margin-top: 2rem;
+    margin-right: .5rem;
+}
+
+.main__separator {
+    background-color: $nickel;
+    height: 1px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 100%;
+}
+
+.main__profile{
+    padding-bottom: .8rem;
+    padding-top: .8rem;
+}
+.main__photo-head {
+    border-radius: 50%;
+    width: 90%;
+}
+
+.main__contact{
+    vertical-align: auto;
+}
+
+.main__contact-link{
+    font: $roboto;
+    font-weight: $r-light;
+    color: $fuzzy-wuzzy;
+    font-size: $medium
+}
+
+.main__description{
+    padding-top: 4%;
+}

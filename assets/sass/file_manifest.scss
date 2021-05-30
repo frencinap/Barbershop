@@ -1,0 +1,25 @@
+// bootstrap
+//@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
+@import "../../node_modules/bootstrap/scss/mixins";
+@import "../../node_modules/bootstrap/scss/navbar";
+@import "../../node_modules/bootstrap/scss/pagination";
+@import "../../node_modules/bootstrap/scss/grid";
+// abstract
+@import 'abstracts/variables';
+// base
+@import 'base/base';
+@import 'base/reset';
+@import 'base/typography';
+// components
+@import 'components/buttons';
+@import 'components/inputs';
+// layout
+@import 'layout/navbar';
+@import 'layout/footer';
+@import 'layout/header';
+@import 'layout/main';
+@import 'layout/pagination';
+
+

@@ -1,0 +1,27 @@
+h1 {
+    font: $playfair-display;
+    font-weight: $pd-italic;
+    font-style: italic;
+    font-size: $xx-large;
+    color: $white;
+}
+
+h2 {
+    font: $playfair-display;
+    font-weight: $pd-italic;
+    font-style: italic;
+    font-size: $x-large;
+    color: $eerie-black;
+}
+
+
+h4 {
+    font: $roboto;
+    font-weight: $r-regular;
+}
+
+p {
+    font: $roboto;
+    font-weight: $r-light;
+    font-size: $medium;
+}
