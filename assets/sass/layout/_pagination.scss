@@ -9,3 +9,17 @@
     font: $roboto;
     font-weight: $r-light;
 }
+
+.page-item{
+    border: 1px;
+    border-color: $raisin-black;
+    color: $white;
+}
+.page-link{
+    color: $raisin-black;
+    text-decoration: none;
+    &:hover {
+        background-color: $nickel;
+        color: $white;
+    }
+}

@@ -27,10 +27,12 @@
 .main__profile{
     padding-bottom: .8rem;
     padding-top: .8rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
 }
 .main__photo-head {
     border-radius: 50%;
-    width: 90%;
+    width: 100%;
 }
 
 .main__contact{
@@ -46,4 +48,8 @@
 
 .main__description{
     padding-top: 4%;
+}
+
+.main__text-spann {
+    color: $fuzzy-wuzzy;
 }

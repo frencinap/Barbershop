@@ -13,4 +13,9 @@ header {
     padding: 4rem;
     text-align: center;
     vertical-align: middle;
+    font: $playfair-display;
+    font-weight: $pd-italic;
+    font-style: italic;
+    font-size: $xx-large;
+    color: $white;   
 }

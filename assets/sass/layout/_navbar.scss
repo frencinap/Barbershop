@@ -1,6 +1,21 @@
-.navbar {
+.nav {
     background-color: $eerie-black;
     padding-left: 3rem;
     padding-right: 3rem;
+    
+    
 }
 
+.nav__items {
+    padding-left: 40rem;
+}
+
+.navbar-toggler-icon{
+    color: $white;
+}
+.nav-link {
+    color: $white;
+    &:hover {
+        color: $fuzzy-wuzzy;
+    }
+}
